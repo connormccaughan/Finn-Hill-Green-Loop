@@ -50,7 +50,7 @@ This dataset provides the community with a clear, actionable visualization for p
 
 ## Contact
 For questions or collaboration inquiries, please contact:  
-**Connor McCaughan** — [mccaughanconnor@gmail.com] — [linkedin.com/cmccaughan]
+**Connor McCaughan** — mccaughanconnor@gmail.com — linkedin.com/cmccaughan
 
 
 
