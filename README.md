@@ -38,7 +38,8 @@ The resulting shapefile and associated map visualizations are intended to serve 
   - Styled map layout showing the loop in context with parks, streets, and neighborhood boundaries
     
 ![Sample Green Loop Map](https://github.com/user-attachments/assets/5d1de93e-39a0-426b-90e8-252324b4f460)  
-[Green Loop Shapefile](https://github.com/user-attachments/files/21701464/greenlooplayer-20250809T202830Z-1-001.zip)  
+[Download Green Loop Shapefile here](https://github.com/user-attachments/files/21701464/greenlooplayer-20250809T202830Z-1-001.zip)  
+
 This dataset provides the community with a clear, actionable visualization for planning, grant applications, and public engagement.
 
 
@@ -46,6 +47,10 @@ This dataset provides the community with a clear, actionable visualization for p
 - Community engagement meetings and presentations
 - Grant proposals for urban greening and active transportation funding
 - Integration into future urban planning and design studies
+
+## Contact
+For questions or collaboration inquiries, please contact:  
+**Connor McCaughan** — [mccaughanconnor@gmail.com] — [linkedin.com/cmccaughan]
 
 
 
