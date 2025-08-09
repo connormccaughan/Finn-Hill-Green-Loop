@@ -1,5 +1,5 @@
 ## Overview
-This project involved creating a custom shapefile to map a proposed "Green Loop" — a continuous green space network — surrounding the Finn Hill neighborhood area in Kirkland, WA. The work was completed in collaboration with the Finn Hill Neighborhood Association, aiming to support local planning, public engagement, and environmental advocacy efforts.
+This project involved creating a custom shapefile to map a proposed "Green Loop" — a continuous green space network — surrounding the Finn Hill neighborhood in Kirkland, WA. The work was completed in collaboration with the Finn Hill Neighborhood Association, aiming to support local planning, public engagement, and environmental advocacy efforts.
 
 The resulting shapefile and associated map visualizations are intended to serve as a planning resource for community members and local government stakeholders.
 
@@ -37,8 +37,9 @@ The resulting shapefile and associated map visualizations are intended to serve 
   - Custom shapefile representing the proposed green loop route
   - Styled map layout showing the loop in context with parks, streets, and neighborhood boundaries
     
-![Sample Green Loop Map] <img width="524" height="679" alt="FHGreenLoop" src="https://github.com/user-attachments/assets/5d1de93e-39a0-426b-90e8-252324b4f460" />  
-![Green Loop Shapefile] (https://github.com/user-attachments/files/21701464/greenlooplayer-20250809T202830Z-1-001.zip)
+![Sample Green Loop Map](https://github.com/user-attachments/assets/5d1de93e-39a0-426b-90e8-252324b4f460)  
+[Green Loop Shapefile](https://github.com/user-attachments/files/21701464/greenlooplayer-20250809T202830Z-1-001.zip)  
+This dataset provides the community with a clear, actionable visualization for planning, grant applications, and public engagement.
 
 
 ## Applications
